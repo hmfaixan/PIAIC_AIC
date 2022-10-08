@@ -4,3 +4,10 @@ Name: H. M. Faizan
 Roll No: PIAIC 189427
 Batch: 36 (Online)
 Teacher: Sir Qasim
+
+Task 1:
+1. import mother and father attribute
+2. add two new attributes in the child constructor
+
+Task2:
+Create operator overloading
